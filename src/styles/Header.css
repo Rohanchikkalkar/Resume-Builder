@@ -67,7 +67,7 @@ a {
   border-radius: 10px;
   padding: 10px;
   font-size: 1rem;
-
+  display: flex;
   font-family: "Kumbh Sans", sans-serif;
   border-style: none;
 }
