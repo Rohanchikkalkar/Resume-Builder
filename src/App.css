@@ -10,4 +10,7 @@ body {
 .form {
   min-width: 50vw;
   padding: 0 2.5%;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
 }
