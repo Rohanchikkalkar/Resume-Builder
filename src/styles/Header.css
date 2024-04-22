@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+/* google fonts import */
+
+.header {
+  background-color: #1c1c1c;
+  display: flex;
+  flex-direction: column;
+  max-width: 525px;
+  border-radius: 12px;
+  padding: 25px;
+  gap: 15px;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+h1 {
+  margin: 0px;
+  font-size: 1.8rem;
+}
+h2 {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+.save-icon,
+.autofill-icon {
+  height: 17px;
+  padding-right: 12px;
+}
+
+.title-Section {
+  display: flex;
+  justify-content: space-between;
+}
+.intro-section {
+  display: flex;
+}
+.github-button {
+  margin: 15px;
+  color: #ffffff;
+  padding: 10px 24px;
+  display: flex;
+  gap: 10px;
+  border-radius: 12px;
+  background-color: #242424;
+  border-style: none;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+}
+.github-button:hover {
+  background-color: #444444;
+  color: #a6a6a6;
+}
+a {
+  text-decoration: none;
+}
+
+.github-icon {
+  height: 18px;
+}
+
+.btn-section {
+  display: flex;
+  gap: 10px;
+}
+.save-button,
+.autofill-button {
+  background-color: #79d2b5;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 1rem;
+
+  font-family: "Kumbh Sans", sans-serif;
+  border-style: none;
+}
+.save-button:hover,
+.autofill-button:hover {
+  background-color: #ffffff;
+}

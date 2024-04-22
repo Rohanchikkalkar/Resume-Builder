@@ -1,4 +1,13 @@
+.mainContent {
+  display: flex;
+  margin: 15px;
+}
 body {
   background-color: #000;
   color: #ffffff;
+}
+
+.form {
+  min-width: 50vw;
+  padding: 0 2.5%;
 }
