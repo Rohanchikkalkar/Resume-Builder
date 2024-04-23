@@ -12,7 +12,7 @@ function App() {
         <EducationalForm></EducationalForm>
         <PracticalForm></PracticalForm>
       </div>
-      <div className="preview">preview</div>
+      <div className="preview"></div>
     </main>
   );
 }

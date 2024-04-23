@@ -14,3 +14,12 @@ body {
   flex-direction: column;
   gap: 25px;
 }
+.preview {
+  position: fixed;
+  left: 50%;
+  background-color: white;
+  width: 650px;
+  height: 930px;
+  border-style: none;
+  border-radius: 10px;
+}
